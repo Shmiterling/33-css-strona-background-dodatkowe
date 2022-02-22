@@ -1,0 +1,18 @@
+* {
+  margin:0;
+}
+img {
+  width:250px;
+  padding:10px;
+}
+header {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+}
+h1 {
+  color: whitesmoke;
+  text-align: center;
+}
+#o_mnie {
+  text-align: center;
+}
