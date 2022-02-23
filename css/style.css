@@ -8,6 +8,7 @@ img {
 header {
   background-image: url("background.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   color: whitesmoke;
